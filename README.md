@@ -3,13 +3,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uy_ldbjPvRAsevn8nbfSOkJ-NAIP0beR?usp=sharing)
 [![Python](https://img.shields.io/badge/Python_3.9_+-3776AB?logo=python&logoColor=FF6F00)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://tensorflow.org)
+![BERT Model](https://img.shields.io/badge/BERT-bert--base--uncased-ffbf00?logo=huggingface&logoColor=yellow)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://colab.research.google.com/drive/1uy_ldbjPvRAsevn8nbfSOkJ-NAIP0beR#scrollTo=cbc2f428&line=7&uniqifier=1)
 
 ---
 
 <!--
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://tensorflow.org)
 -->
 
 
