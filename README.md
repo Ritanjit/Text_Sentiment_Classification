@@ -4,6 +4,9 @@
 [![Python](https://img.shields.io/badge/Python_3.9_+-3776AB?logo=python&logoColor=FF6F00)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-FF6F00?logo=tensorflow)](https://tensorflow.org)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://colab.research.google.com/drive/1uy_ldbjPvRAsevn8nbfSOkJ-NAIP0beR#scrollTo=cbc2f428&line=7&uniqifier=1)
+
+---
 
 <!--
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
@@ -14,6 +17,50 @@
 
 > The goal is to classify tweets into three sentiment categories: Positive, Negative, and Neutral. The project utilizes the `transformers` library from Hugging Face and is implemented in a Google Colab notebook environment.
 
+## 🚀 Live Demo [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://colab.research.google.com/drive/1uy_ldbjPvRAsevn8nbfSOkJ-NAIP0beR#scrollTo=cbc2f428&line=7&uniqifier=1)
+
+Experience the sentiment analysis model in action! 
+I've added a simple Streamlit application directly in the Google Colab notebook where you can input text and get real-time sentiment predictions (Positive, Negative, or Neutral).
+
+**Note:** The `PASSWORD` is the external URL shown on running the Streamlit application.
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+#### STREAMLIT INTERFACE SAMPLE
+
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+
+**POSITIVE PREDICTIONS**
+<div></div>
+
+![Dog Cat Results](https://raw.githubusercontent.com/ritanjit/Text_Sentiment_Classification/main/positive.png)
+
+![Dog Cat Results](https://raw.githubusercontent.com/ritanjit/Text_Sentiment_Classification/main/positive.png)
+
+</td>
+<td align="center">
+
+**NEGATIVE PREDICTION**
+![MNIST Results](https://raw.githubusercontent.com/ritanjit/Text_Sentiment_Classification/main/negative.png)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**NEUTRAL PREDICTION**
+![Performance Comparison](https://raw.githubusercontent.com/ritanjit/Text_Sentiment_Classification/main/neutral.png) 
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 Dataset
 
